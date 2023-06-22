@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 Alexey Rudenko (Python Software Engineer)<br>
