@@ -96,13 +96,13 @@ blockquote {
 
 pre,
 code {
-  @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: #eef;
 }
 
 code {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   padding: 1px 5px;
 }
 

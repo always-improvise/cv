@@ -18,7 +18,7 @@ I am:
 - passionate about [DevOps](https://en.wikipedia.org/wiki/DevOps) and [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
 - an excellent English speaker
 
-Given my solid theoretical background and personal drive for self-improvement, I'm sure your company would benefit from my skills and knowledge. Reach out to me and I'll be happy to discuss the details of a long-term cooperation from which everyone involved will benefit.
+Given my solid theoretical background and personal drive for self-improvement, I'm sure your company would benefit from my skills and knowledge. Reach out to me, and I'll be happy to discuss the details of a long-term cooperation from which everyone involved will benefit.
 
 ## Education
 * Odessa National Polytechnic University, Master's degree (with honor) in `Computer Science`, Dec 2018, Odessa
