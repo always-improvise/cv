@@ -2,77 +2,96 @@
 layout: default
 ---
 
-Alexey Rudenko (Python Software Engineer)  
-[![telegram](assets/telegram-logo.svg){:height="24"}](https://telegram.org/) [@jolly_cooperation](https://t.me/jolly_cooperation)  
-[![signal](assets/signal-logo.svg){:height="24"}](https://www.signal.org/) +380(91)618-20-64  
-E-mail: [alexey-rudenko.enc@simplelogin.fr](mailto:alexey-rudenko.enc@simplelogin.fr)  
+Alexey Rudenko (Python Software Engineer)<br>
+[![telegram](assets/telegram-logo.svg){:height="24"}](https://telegram.org/) [@always_improvise](https://t.me/always_improvise)<br>
+[![signal](assets/signal-logo.svg){:height="24"}](https://www.signal.org/) +380(91)618-20-64<br>
+E-mail: [alexey-rudenko.enc@simplelogin.fr](mailto:alexey-rudenko.enc@simplelogin.fr)<br>
 Location: Izmail, Ukraine
 
 ---
 
 ## Introduction
-I am:
-- a software engineer and a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast
-- an empathetic person and a fast learner
-- experienced in back-end development and familiar with data science
-- passionate about [DevOps](https://en.wikipedia.org/wiki/DevOps) and [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
-- an excellent English speaker
+I'm an empathetic person, a software engineer and a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast.<br>
+I love software development with a burning passion, and I'm becoming better at it every day since I started 11 years ago.
 
-Given my solid theoretical background and personal drive for self-improvement, I'm sure your company would benefit from my skills and knowledge. Reach out to me, and I'll be happy to discuss the details of a long-term cooperation from which everyone involved will benefit.
+I care about:
+- My team, our well-being
+- Software design, code quality and maintainability
+- Following best practices and cultures like [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
-## Education
-* Odessa National Polytechnic University, Master's degree (with honor) in `Computer Science`, Dec 2018, Odessa
-* Odessa National Polytechnic University, Bachelor's degree (with honor) in `Computer Science`, Jul 2017, Odessa
-* Izmail College of Economics and Law, Associate degree (with honor) in `Software Engineering`, Jun 2015, Izmail
+I believe that well organized work processes lead to sustainable future.
 
 ## Experience
-> `Nov 2020` – `Jan 2021`  
-> Completed lessons 1-45 of the course [Clean Code](https://cleancoders.com/series/clean-code) by Robert C. Martin
-
-> `Sep 2019` – `Oct 2020`  
-> Worked on the project "Unit" at [United Business Networks](https://www.ripe.net/membership/indices/data/de.ubn24.html) (the official [website](https://ubn24.de/) isn't public yet) as a `back-end developer`  
-> Description: "Unit" is a cloud infrastructure platform  
-> Team: 2 back-end and 1 front-end developers, 2 ops engineers  
-> Technical stack:
-> - front-end: `react`
-> - back-end: `pytest`, `python`, [`fastapi`](https://fastapi.tiangolo.com/), `docker`
-> - infrastructure: `proxmox`, `ansible`
+> `April 2021` -- `June 2023` (2 years, 2 months) at [FRINX](https://frinx.io/).<br>
+> I've worked on multiple projects (and PoCs) aimed at network automation for a large telecommunication company as a `lead` developer or as a `team-lead`.<br>
 >
-> Responsibilities:
-> * discussed and composed requirements with the customer
-> * chose technical stack and co-designed the architecture for the back-end and partially for the ops engineers (helped with anything python and/or programming related)
-> * designed and maintained the deployment strategy, namely all the necessary `docker`, `docker-compose` files and `bash` scripts
-> * created tasks for the back-end and ops engineers in `Jira`
-> * developed tests and features using [`TDD`](https://en.wikipedia.org/wiki/Test-driven_development)
+> Technical stack:
+> - [`FRINX-machine`](https://docs.frinx.io/frinx-machine/getting-started) (uses `Docker Swarm`)
+> - `Python 3.11` important libs: [`pydantic`](https://github.com/pydantic/pydantic), `psycopg` and `pytest`
+> - `Bash` for deployment automation
+> - `PostgreSQL`
+>
+> I've been responsible for:
+> - Management of our repositories and merging PRs
+> - Configuring and maintaining CI
+> - Management our Jira board
+> - Design and implementation of features
+> - Deployments and their automation
+> - Helping less-senior colleagues and mentoring newcomers
+> - Leading various meetings and initiatives
+
+---
+
+> `Sep 2019` -- `Oct 2020` (1 year, 1 month) at [UBN24](https://ubn24.de/).<br>
+> I've worked on a project aimed at cloud infrastructure automation.<br>
+>
+> Technical stack:
+> - [`Proxmox VE`](https://www.proxmox.com/en/proxmox-ve)
+> - `Docker`
+> - `Python 3.6` important libs: [`fastapi`](https://github.com/tiangolo/fastapi), [`pydantic`](https://github.com/pydantic/pydantic), `sqlalchemy` and `pytest`
+> - `PostgreSQL`
+>
+> I've been responsible for:
+> - Management of our repositories and merging PRs
+> - Design and implementation of features
+> - Leading various meetings and initiatives
+
+## Education
+- Course [Clean Code](https://cleancoders.com/series/clean-code) by Robert C. Martin, Jan 2021
+- Odessa National Polytechnic University, Master's degree (with honor) in `Computer Science`, Dec 2018, Odessa
+- Odessa National Polytechnic University, Bachelor's degree (with honor) in `Computer Science`, Jul 2017, Odessa
+- Izmail College of Economics and Law, Associate degree (with honor) in `Software Engineering`, Jun 2015, Izmail
 
 ## Skills
 - [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) & [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development)
-- Python (as back-end engineer):
-  - [pytest](https://docs.pytest.org/en/stable/index.html)
-  - [fastapi](https://fastapi.tiangolo.com/)
-  - [pydantic](https://pydantic-docs.helpmanual.io/)
-  - [sqlalchemy](https://www.sqlalchemy.org/)
-- Python (as data scientist):
-  - [scikit-learn](https://scikit-learn.org/stable/index.html)
-  - [pandas](https://pandas.pydata.org/)
-  - [matplotlib](https://matplotlib.org/stable/index.html)
-- Git
-- Debian GNU/Linux
-  - bash
-  - docker
-  - docker-compose
+- `Python 3.11`:
+  - [`fastapi`](https://github.com/tiangolo/fastapi)
+  - [`pydantic`](https://github.com/pydantic/pydantic)
+  - `sqlalchemy` and `psycopg`
+  - `pytest`
+  - [`pre-commit`](https://pre-commit.com/) with `mypy`, `black`, `isort` and `flake8`
+- `Bash`
+- `Git`
+- `Docker` and `Docker Swarm`
+- [`FRINX-machine`](https://docs.frinx.io/frinx-machine/getting-started) and [`UniConfig`](https://docs.frinx.io/frinx-uniconfig/getting-started)
+- Favorite linux:
+  - [`Proxmox VE`](https://www.proxmox.com/en/proxmox-ve)
+  - `Linux Mint` and `NixOS` (desktop)
+  - `Debian` (server)
 
 ## Languages
+- Ukrainian: `Native`
 - Russian: `Native`
-- English: `Fluent` (between `B2` and `C1`)
+- English: `Fluent`
 
 ## Hobbies
-- Helping others with everything I can
-- Cooking, which helps me stay sane and healthy
-- Learning technologies through reading books, articles and documentation
-- Watching conferences and listening to podcasts on various topics
-- Playing offline video games like [DOOM II](https://doom.fandom.com/wiki/Doom_II), would also enjoy playing a board game like [D&D](https://dnd.wizards.com/)
+- Talking about life and making new friends!
+- Teaching friends about privacy and security on the Internet
+- Self-hosting services like [Nextcloud](https://nextcloud.com/) or [Syncthing](https://syncthing.net/) using [Proxmox VE](https://www.proxmox.com/en/proxmox-ve) or similar technologies
+- Listening to podcasts and reading books
+- Learning something new every day
+- Playing video games like [DOOM](https://doom.fandom.com/wiki/Doom_(series)) or [Heroes of Might and Magic](https://mightandmagic.fandom.com/wiki/Heroes_of_Might_and_Magic), would also enjoy playing a board game like [D&D](https://dnd.wizards.com/)
 
 ## The books I've read
 - Development:
