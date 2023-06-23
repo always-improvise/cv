@@ -25,36 +25,36 @@ I believe that well organized work processes lead to sustainable future.
 > `April 2021` -- `June 2023` (2 years, 2 months) at [FRINX](https://frinx.io/).<br>
 > I've worked on multiple projects (and PoCs) aimed at network automation for a large telecommunication company as a `lead` developer or as a `team-lead`.<br>
 >
+> Responsibilities:
+> - Manage our repositories and merge PRs
+> - Configure and maintain CI
+> - Manage our Jira board
+> - Design and implement features
+> - Deployments and their automation
+> - Help less-senior colleagues and mentor newcomers
+> - Lead various meetings and initiatives
+>
 > Technical stack:
 > - [`FRINX-machine`](https://docs.frinx.io/frinx-machine/getting-started) (uses `Docker Swarm`)
 > - `Python 3.11` important libs: [`pydantic`](https://github.com/pydantic/pydantic), `psycopg` and `pytest`
 > - `Bash` for deployment automation
 > - `PostgreSQL`
->
-> I've been responsible for:
-> - Management of our repositories and merging PRs
-> - Configuring and maintaining CI
-> - Management our Jira board
-> - Design and implementation of features
-> - Deployments and their automation
-> - Helping less-senior colleagues and mentoring newcomers
-> - Leading various meetings and initiatives
 
 ---
 
 > `Sep 2019` -- `Oct 2020` (1 year, 1 month) at [UBN24](https://ubn24.de/).<br>
 > I've worked on a project aimed at cloud infrastructure automation.<br>
 >
+> Responsibilities:
+> - Manage our repositories and merge PRs
+> - Design and implement features
+> - Lead various meetings and initiatives
+>
 > Technical stack:
 > - [`Proxmox VE`](https://www.proxmox.com/en/proxmox-ve)
 > - `Docker`
 > - `Python 3.6` important libs: [`fastapi`](https://github.com/tiangolo/fastapi), [`pydantic`](https://github.com/pydantic/pydantic), `sqlalchemy` and `pytest`
 > - `PostgreSQL`
->
-> I've been responsible for:
-> - Management of our repositories and merging PRs
-> - Design and implementation of features
-> - Leading various meetings and initiatives
 
 ## Education
 - Course [Clean Code](https://cleancoders.com/series/clean-code) by Robert C. Martin, Jan 2021
@@ -74,11 +74,11 @@ I believe that well organized work processes lead to sustainable future.
 - `Bash`
 - `Git`
 - `Docker` and `Docker Swarm`
-- [`FRINX-machine`](https://docs.frinx.io/frinx-machine/getting-started) and [`UniConfig`](https://docs.frinx.io/frinx-uniconfig/getting-started)
 - Favorite linux:
   - [`Proxmox VE`](https://www.proxmox.com/en/proxmox-ve)
   - `Linux Mint` and `NixOS` (desktop)
   - `Debian` (server)
+- [`FRINX-machine`](https://docs.frinx.io/frinx-machine/getting-started) and [`UniConfig`](https://docs.frinx.io/frinx-uniconfig/getting-started)
 
 ## Languages
 - Ukrainian: `Native`
