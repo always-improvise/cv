@@ -2,17 +2,16 @@
 layout: base
 ---
 
-Alexey Rudenko (Python Software Engineer)<br>
+Alexey Rudenko (Software Engineer & DevOps)<br>
 [![telegram](assets/telegram-logo.svg){:height="24"}](https://telegram.org/) [@always_improvise](https://t.me/always_improvise)<br>
-[![signal](assets/signal-logo.svg){:height="24"}](https://www.signal.org/) +380(91)618-20-64<br>
 E-mail: [alexey-rudenko.enc@simplelogin.fr](mailto:alexey-rudenko.enc@simplelogin.fr)<br>
-Location: Izmail, Ukraine
+Location: Bratislava, Slovakia
 
 ---
 
 ## Introduction
 I'm an empathetic person, a software engineer and a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast.<br>
-I love software development with a burning passion, and I'm becoming better at it every day since I started 11 years ago.
+I love software development with a burning passion, and I'm becoming better at it every day since I started 12 years ago.
 
 I care about:
 - My team, our well-being
@@ -22,6 +21,27 @@ I care about:
 I believe that well organized work processes lead to sustainable future.
 
 ## Experience
+> `June 2023` -- `Present` at [PANTHEON.tech](https://pantheon.tech/).<br>
+> I'm working on a project aimed at network automation for a large telecommunication company as a DevOps.<br>
+>
+> Responsibilities:
+> - Develop and maintain deployment/CI/automation related code and configuration:
+>   - Bash and Python automation
+>   - Python code (as Software Engineer)
+>   - Helm charts
+>   - Dockerfiles
+> - Create documentation
+> - Conduct epic analysis
+>
+> Technical stack:
+> - `Kubernetes`
+> - `Helm`
+> - `Python 3.11` important libs: `asyncio`, [`pydantic`](https://github.com/pydantic/pydantic) and `pytest`
+> - `Bash`
+> - `Jenkins` (using `Jenkins Job Builder`)
+
+---
+
 > `April 2021` -- `June 2023` (2 years, 2 months) at [FRINX](https://frinx.io/).<br>
 > I've worked on multiple projects (and PoCs) aimed at network automation for a large telecommunication company as a `lead` developer or as a `team-lead`.<br>
 >
@@ -35,9 +55,9 @@ I believe that well organized work processes lead to sustainable future.
 > - Lead various meetings and initiatives
 >
 > Technical stack:
-> - [`FRINX-machine`](https://docs.frinx.io/frinx-machine/getting-started) (uses `Docker Swarm`)
+> - [`FRINX-machine`](https://docs.frinx.io/frinx-machine/getting-started) (using `Docker`)
 > - `Python 3.11` important libs: [`pydantic`](https://github.com/pydantic/pydantic), `psycopg` and `pytest`
-> - `Bash` for deployment automation
+> - `Bash`
 > - `PostgreSQL`
 
 ---
